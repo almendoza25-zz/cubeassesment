@@ -1,0 +1,14 @@
+{
+  "name": "cube_cypress",
+  "version": "1.0.0",
+  "description": "Cube coding assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.2.0"
+  }
+}
